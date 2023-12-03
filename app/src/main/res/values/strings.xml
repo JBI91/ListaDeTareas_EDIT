@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="btn_cancelar">CANCELAR</string>
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="editar_tarea">EDITAR TAREA</string>
+    <string name="hint_nombre_tarea">Nombre tarea</string>
+    <string name="hint_fecha">dd/mm/yyyy</string>
+    <string name="hint_hora">hh:mm</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="categoria">Categoría:</string>
+    <string name="cat_0">Ocio</string>
+    <string name="cat_1">Deporte</string>
+    <string name="cat_2">Trabajo</string>
+    <string name="cat_3">Estudios</string>
+    <string name="cat_4">Familia</string>
+    <string name="cat_5">Amigos</string>
+</resources>
