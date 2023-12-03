@@ -19,11 +19,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     public static AdaptadorTarea adaptador;
-
-    editarTareaActivity editar;
-    private static final ArrayList<Tarea> lstTareas = new ArrayList<>();
-
-    @Override
+     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
