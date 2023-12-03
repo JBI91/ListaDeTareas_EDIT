@@ -110,6 +110,7 @@ public class editarTareaActivity extends AppCompatActivity {
         tarea.setNombre(txtTareaNombre.getText().toString());
         tarea.setFecha(txtTareaFecha.getText().toString());
         tarea.setHora(txtTareaHora.getText().toString());
+        tarea.setDescripcion(txtTareaDescripcion.getText().toString());
 
         if (opcCat0.isChecked()) tarea.setCategoria(0);
         if (opcCat1.isChecked()) tarea.setCategoria(1);
